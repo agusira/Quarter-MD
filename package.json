@@ -3,12 +3,12 @@
   "version": "4.7.3",
   "type": "module",
   "description": "Subscribe Channel Youtube: Arifi Razzaq Ofc, Untuk Informasi Update Script Bot WhatsApp Terbaru",
-  "main": "index.js",
+  "main": "lib/main.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node lib/main.js"
   },
   "author": "Arifi Razzaq",
   "license": "ISC",
