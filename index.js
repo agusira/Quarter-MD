@@ -28,7 +28,7 @@ function keepAlive() {
 
 app.listen(port, () => {
   console.log('App listened on port', port)
-  keepAlive()
+  //keepAlive()
 });
 
 var isRunning = false;
