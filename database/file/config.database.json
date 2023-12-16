@@ -1,0 +1,77 @@
+{
+  "authorName": "Agus Irawan",
+  "authorNumber": [
+    "62895359263399",
+    "6283840312820"
+  ],
+  "mods": [
+    "6283193905842"
+  ],
+  "prems": [
+    "6283840312820",
+    "62831939058426"
+  ],
+  "botName": "Quarter-MD",
+  "chat": 34544,
+  "changelogV1": [
+    {
+      "version": "",
+      "description": "",
+      "added": "",
+      "time": ""
+    }
+  ],
+  "changelogV2": [
+    {
+      "description": "-",
+      "update": "self",
+      "time": 1702640662791
+    }
+  ],
+  "createlist": [
+    {
+      "sewa": [],
+      "premium": []
+    }
+  ],
+  "isPublic": true,
+  "description": "Agus lapar bukk",
+  "idGroupInfo": "",
+  "anticall": true,
+  "apikey": [
+    {
+      "https://api.zahwazein.xyz": "",
+      "https://skizo.tech": ""
+    }
+  ],
+  "respon": [
+    {
+      "pesan": "halo",
+      "res": "halo kak ada yg bisa bot bantu?"
+    },
+    {
+      "pesan": "assalamualaikum",
+      "res": "waalaikumsalam"
+    },
+    {
+      "pesan": "ping",
+      "res": "pong"
+    },
+    {
+      "pesan": "test",
+      "res": "worek cuyy"
+    },
+    {
+      "pesan": "makasih",
+      "res": "sama-sama👍🏻"
+    }
+  ],
+  "symbol": [
+    "✧"
+  ],
+  "menucase": [
+    "addmenuc",
+    "menucase",
+    "listid"
+  ]
+}

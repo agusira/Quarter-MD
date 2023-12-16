@@ -1,0 +1,1275 @@
+{
+  "6285763538115@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701334785746,
+    "warning": 0,
+    "limit": "Infinity",
+    "premium": true,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285763538115@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 18,
+    "chat": 924,
+    "expired": null
+  },
+  "62895359263399@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701334787860,
+    "warning": 0,
+    "limit": "Infinity",
+    "premium": true,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "62895359263399@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 280,
+    "chat": 3361,
+    "expired": null
+  },
+  "6285974848621@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701334827570,
+    "warning": 0,
+    "limit": 87,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285974848621@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 26,
+    "chat": 466,
+    "expired": null
+  },
+  "6283838077485@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701336381912,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283838077485@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 4,
+    "chat": 247,
+    "expired": null
+  },
+  "6285162733161@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701337232719,
+    "warning": 0,
+    "limit": 93,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285162733161@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 16,
+    "chat": 546,
+    "expired": null
+  },
+  "6281936740147@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701337352856,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6281936740147@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 1,
+    "expired": null
+  },
+  "6289528652225@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701345229160,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6289528652225@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 115,
+    "expired": null
+  },
+  "6285294478244@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701345229192,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285294478244@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 50,
+    "expired": null
+  },
+  "6283838898712@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701345229651,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283838898712@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 1,
+    "expired": null
+  },
+  "6285882487414@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701345229904,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285882487414@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 18,
+    "chat": 197,
+    "expired": null
+  },
+  "6289515023601@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701345631385,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6289515023601@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 31,
+    "chat": 166,
+    "expired": null
+  },
+  "6285648587497@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701353692152,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285648587497@s.whatsapp.net",
+          "date": "Thu Nov 30 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 4,
+    "chat": 60,
+    "expired": null
+  },
+  "6289519746316@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701395183505,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6289519746316@s.whatsapp.net",
+          "date": "Fri Dec 01 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2,
+    "expired": null
+  },
+  "6283840312820@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701396643491,
+    "warning": 0,
+    "limit": "Infinity",
+    "premium": true,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283840312820@s.whatsapp.net",
+          "date": "Fri Dec 01 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 353,
+    "chat": 1445,
+    "expired": null
+  },
+  "6285624823115@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701426468867,
+    "warning": 0,
+    "limit": 99,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285624823115@s.whatsapp.net",
+          "date": "Fri Dec 01 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 19,
+    "expired": null
+  },
+  "6283891667988@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701426468910,
+    "warning": 0,
+    "limit": 92,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283891667988@s.whatsapp.net",
+          "date": "Fri Dec 01 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 46,
+    "chat": 191,
+    "expired": null
+  },
+  "62881011970969@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701426468933,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "62881011970969@s.whatsapp.net",
+          "date": "Fri Dec 01 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 1,
+    "expired": null
+  },
+  "6285232687772@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701426468942,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285232687772@s.whatsapp.net",
+          "date": "Fri Dec 01 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 3,
+    "expired": null
+  },
+  "6285219494407@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701468011244,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285219494407@s.whatsapp.net",
+          "date": "Sat Dec 02 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 5,
+    "expired": null
+  },
+  "62895321530604@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701495561647,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "62895321530604@s.whatsapp.net",
+          "date": "Sat Dec 02 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2,
+    "expired": null
+  },
+  "628819018341@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701518467533,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "628819018341@s.whatsapp.net",
+          "date": "Sat Dec 02 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 24,
+    "expired": null
+  },
+  "6283150672922@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701527987242,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283150672922@s.whatsapp.net",
+          "date": "Sat Dec 02 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 10,
+    "expired": null
+  },
+  "6285334192581@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701597948306,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285334192581@s.whatsapp.net",
+          "date": "Sun Dec 03 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 4,
+    "expired": null
+  },
+  "6285927461584@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701649168822,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285927461584@s.whatsapp.net",
+          "date": "Mon Dec 04 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2,
+    "expired": null
+  },
+  "62831939058421@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701649169006,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "62831939058421@s.whatsapp.net",
+          "date": "Mon Dec 04 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 167,
+    "expired": null
+  },
+  "62831939058422@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701700690913,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "62831939058422@s.whatsapp.net",
+          "date": "Mon Dec 04 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 2,
+    "chat": 2,
+    "expired": null
+  },
+  "6281362821194@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701749156770,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6281362821194@s.whatsapp.net",
+          "date": "Tue Dec 05 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 8,
+    "expired": null
+  },
+  "6283879262472@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701930015946,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283879262472@s.whatsapp.net",
+          "date": "Thu Dec 07 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 1,
+    "expired": null
+  },
+  "6282368048490@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701930125706,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6282368048490@s.whatsapp.net",
+          "date": "Thu Dec 07 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2,
+    "expired": null
+  },
+  "6282324081446@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1701930265863,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6282324081446@s.whatsapp.net",
+          "date": "Thu Dec 07 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2,
+    "expired": null
+  },
+  "6283826918369@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702044996374,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283826918369@s.whatsapp.net",
+          "date": "Fri Dec 08 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 4,
+    "expired": null
+  },
+  "62857545048446@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702045034483,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "62857545048446@s.whatsapp.net",
+          "date": "Fri Dec 08 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 1,
+    "expired": null
+  },
+  "6285650875878@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702045045070,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285650875878@s.whatsapp.net",
+          "date": "Fri Dec 08 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 3,
+    "expired": null
+  },
+  "6287862587910@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702045070621,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6287862587910@s.whatsapp.net",
+          "date": "Fri Dec 08 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2,
+    "expired": null
+  },
+  "6281314348130@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702045087446,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6281314348130@s.whatsapp.net",
+          "date": "Fri Dec 08 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2,
+    "expired": null
+  },
+  "6287733154911@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702045095145,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6287733154911@s.whatsapp.net",
+          "date": "Fri Dec 08 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2,
+    "expired": null
+  },
+  "62831939058423@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702175047455,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "62831939058423@s.whatsapp.net",
+          "date": "Sun Dec 10 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 195,
+    "expired": null
+  },
+  "6283193905842@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702176272685,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283193905842@s.whatsapp.net",
+          "date": "Sun Dec 10 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 101,
+    "expired": null
+  },
+  "6288213503541@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702208393746,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6288213503541@s.whatsapp.net",
+          "date": "Sun Dec 10 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 3,
+    "expired": null
+  },
+  "6282120647739@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702208394391,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6282120647739@s.whatsapp.net",
+          "date": "Sun Dec 10 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 79,
+    "expired": null
+  },
+  "62831939058426@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702285998255,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "62831939058426@s.whatsapp.net",
+          "date": "Mon Dec 11 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 27,
+    "chat": 1011,
+    "expired": 1702709949956
+  },
+  "6289603732786@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702469783542,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6289603732786@s.whatsapp.net",
+          "date": "Wed Dec 13 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2
+  },
+  "6282129013713@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702474715263,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6282129013713@s.whatsapp.net",
+          "date": "Wed Dec 13 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 7,
+    "expired": null
+  },
+  "6283163784116@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702474715276,
+    "warning": 0,
+    "limit": 98,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283163784116@s.whatsapp.net",
+          "date": "Wed Dec 13 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 4,
+    "chat": 75,
+    "expired": null
+  },
+  "6285784581395@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702474715387,
+    "warning": 0,
+    "limit": 95,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285784581395@s.whatsapp.net",
+          "date": "Wed Dec 13 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 6,
+    "chat": 42,
+    "expired": false
+  },
+  "6281315995628@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702474715506,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6281315995628@s.whatsapp.net",
+          "date": "Wed Dec 13 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 2
+  },
+  "6288218609473@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702474723820,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6288218609473@s.whatsapp.net",
+          "date": "Wed Dec 13 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 23,
+    "expired": null
+  },
+  "6283110928302@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702514003359,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6283110928302@s.whatsapp.net",
+          "date": "Thu Dec 14 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 3,
+    "expired": null
+  },
+  "6285601106323@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702626664615,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6285601106323@s.whatsapp.net",
+          "date": "Fri Dec 15 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 3,
+    "expired": false
+  },
+  "6281340809941@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702629211615,
+    "warning": 0,
+    "limit": 98,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "6281340809941@s.whatsapp.net",
+          "date": "Fri Dec 15 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 3,
+    "chat": 43,
+    "expired": false
+  },
+  "62895424512010@s.whatsapp.net": {
+    "afk": -1,
+    "rafk": "",
+    "lastseen": 1702642159059,
+    "warning": 0,
+    "limit": 100,
+    "premium": false,
+    "banned": false,
+    "transaction": [
+      {
+        "fromId": {
+          "sender": "62895424512010@s.whatsapp.net",
+          "date": "Fri Dec 15 2023",
+          "order": "",
+          "item": 1,
+          "price": 0,
+          "paid": "",
+          "status": ""
+        }
+      }
+    ],
+    "hit": 1,
+    "chat": 29,
+    "expired": false
+  }
+}
